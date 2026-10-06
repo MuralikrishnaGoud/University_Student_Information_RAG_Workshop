@@ -1,0 +1,19 @@
+B.TECH CSE AND SPECIALIZED BRANCHES - DEMO DATA
+
+B.Tech CSE
+Focus: programming, data structures, databases, operating systems, computer networks, software engineering, cloud, AI fundamentals.
+
+B.Tech CSE - Artificial Intelligence
+Focus: intelligent systems, deep learning, NLP, computer vision, responsible AI, generative AI.
+
+B.Tech CSE - Artificial Intelligence and Machine Learning
+Focus: machine learning, deep learning, statistics, model development, MLOps foundations and AI applications.
+
+B.Tech CSE - Data Science
+Focus: Python, statistics, SQL, data engineering, analytics, machine learning, visualization and big-data concepts.
+
+B.Tech CSE - Cyber Security
+Focus: network security, application security, ethical hacking, cloud security, digital forensics and security governance.
+
+B.Tech CSE - IoT
+Focus: sensors, embedded systems, networking, cloud integration, edge computing, data collection and IoT applications.

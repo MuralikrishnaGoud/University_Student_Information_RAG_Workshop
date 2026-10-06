@@ -1,0 +1,49 @@
+AIVANTEZ TECHNOLOGY UNIVERSITY - DEMO UNIVERSITY DATA
+IMPORTANT: This is fictional workshop data created only for learning RAG.
+
+UNIVERSITY HELP DESK
+Academic Help Desk: Block A, Ground Floor
+Help Desk Hours: Monday-Friday, 9:00 AM-5:00 PM
+Student Portal Support: support@demo-university.edu
+
+ACADEMIC TIMINGS
+Regular classes run Monday-Friday.
+First class begins at 9:00 AM.
+Lunch break is from 12:40 PM to 1:30 PM.
+Regular classes normally finish by 4:20 PM.
+Saturday is normally reserved for labs, project reviews, placement training, hackathons, make-up classes, and university events when scheduled.
+
+ATTENDANCE
+Students are expected to maintain at least 75% attendance in each registered course.
+Students below the required attendance must contact their department academic coordinator.
+Medical or exceptional cases are reviewed according to university academic policy.
+
+EXAMINATION INFORMATION
+Internal assessment dates are announced by the department.
+Semester examination schedules are published separately by the Examination Cell.
+Students should verify hall-ticket and examination information through the official student portal.
+
+FEE PAYMENT INFORMATION
+Semester fees must be paid through the official student portal or approved university payment channels.
+Students should not make academic-fee payments to personal accounts.
+Late-payment rules and approved extensions are handled by the Accounts Office.
+Scholarships and fee concessions, where applicable, are processed only after verification of eligibility documents.
+
+EVENTS
+AI Innovation Week: 12-16 November 2026.
+University Hackathon: 21 November 2026, Innovation Lab.
+Data & Cloud Career Day: 28 November 2026, Main Auditorium.
+Agentic AI Project Expo: 5 December 2026, CSE Project Hall.
+Annual Sports & Cultural Fest: 18-20 December 2026.
+
+STUDENT SERVICES
+Library: 8:00 AM-8:00 PM on working days.
+Placement Cell: Block C, Second Floor.
+Innovation Lab: Block B, Third Floor.
+Accounts Office: Administration Block, First Floor.
+Examination Cell: Administration Block, Second Floor.
+
+IMPORTANT POLICY
+The AI assistant may explain information present in approved university knowledge sources.
+It must not invent marks, attendance, payment status, scholarship approval, examination results, or personal student records.
+Personal student information must come from an authorized student system and requires appropriate authentication.

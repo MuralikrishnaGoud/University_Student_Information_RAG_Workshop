@@ -1,0 +1,21 @@
+branch,semester,day,time,subject,room
+CSE,7,Monday,09:00-09:50,Cloud Computing,CSE-301
+CSE,7,Monday,10:00-10:50,Machine Learning,CSE-301
+CSE,7,Monday,11:00-11:50,Software Engineering,CSE-301
+CSE,7,Monday,13:30-14:20,Generative AI,CSE-302
+CSE,7,Monday,14:30-16:20,Project Lab,LAB-4
+CSE-AI,7,Monday,09:00-09:50,Deep Learning,AI-201
+CSE-AI,7,Monday,10:00-10:50,Natural Language Processing,AI-201
+CSE-AI,7,Monday,11:00-11:50,AI Ethics and Governance,AI-201
+CSE-AI,7,Monday,13:30-14:20,Generative AI,AI-202
+CSE-AI,7,Monday,14:30-16:20,AI Project Lab,AI-LAB
+CSE-DS,7,Monday,09:00-09:50,Big Data Analytics,DS-101
+CSE-DS,7,Monday,10:00-10:50,Data Engineering,DS-101
+CSE-DS,7,Monday,11:00-11:50,Machine Learning,DS-101
+CSE-DS,7,Monday,13:30-14:20,Data Visualization,DS-102
+CSE-DS,7,Monday,14:30-16:20,Analytics Lab,DS-LAB
+CSE-CS,7,Monday,09:00-09:50,Network Security,CS-201
+CSE-CS,7,Monday,10:00-10:50,Ethical Hacking,CS-201
+CSE-CS,7,Monday,11:00-11:50,Cloud Security,CS-201
+CSE-CS,7,Monday,13:30-14:20,Digital Forensics,CS-202
+CSE-CS,7,Monday,14:30-16:20,Cyber Security Lab,CS-LAB
